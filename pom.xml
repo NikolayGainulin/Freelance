@@ -8,8 +8,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiter.sourse>11</maven.compiter.sourse>
-    <maven.compiter.target>11</maven.compiter.target>
+    <maven.compiler.sourse>11</maven.compiler.sourse>
+    <maven.compiler.target>11</maven.compiler.target>
   </properties>
 
   <dependencies>
